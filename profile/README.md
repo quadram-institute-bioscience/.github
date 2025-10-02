@@ -1,4 +1,4 @@
-## QIB repositories 
+# QIB Repositories 
 
 This organisation hosts code produced by researchers of the [Quadram Institute Bioscience](https://www.quadram.ac.uk).
 
